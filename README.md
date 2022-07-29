@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RiotRonzoX
-- 👀 I’m interested in trolling.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me riot_ronzo.
